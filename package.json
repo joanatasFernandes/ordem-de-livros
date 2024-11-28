@@ -44,6 +44,8 @@
 		"vite": "^5.0.11"
 	},
 	"dependencies": {
-		"@tailwindcss/typography": "^0.5.15"
+		"@tabler/icons-svelte": "^3.22.0",
+		"@tailwindcss/typography": "^0.5.15",
+		"marked": "^15.0.2"
 	}
 }
