@@ -3,7 +3,7 @@ const autores = [
     id: "j-k-rowling",
     nome: "J.K. Rowling",
     imagem:
-      "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/04/GettyImages-950041970-e1712065084538.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/J._K._Rowling_2010.jpg/800px-J._K._Rowling_2010.jpg",
     biografia: `
 # J.K. Rowling
 
